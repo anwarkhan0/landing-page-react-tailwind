@@ -20,7 +20,7 @@ function App() {
           <div className="w-5/12 sm:invisible"></div>
           <div className="w-7/12 sm:w-full m-auto bg-white">
             <LukaLine />
-            <div className="bg-white mt-96">
+            <div className="bg-white">
               <div className="text-center text-2xl font-extrabold">Heading three</div>
               <div className="font-bold text-center m-auto p-4 w-8/12">
                 Luka and Mazen have been business partners for many years,
@@ -36,7 +36,7 @@ function App() {
 
         <div className="flex justify-start w-full">
 
-          <div className="w-1/2 bg-gray-50 box-border overflow-x-hidden	">
+          <div className="w-1/2 bg-gray-50 box-border">
             <Topline id="topline" className=""/>
             <Vector145 id="vector45" />
 
